@@ -11,16 +11,16 @@ Afterwards, you need to build the dependencies and compile the code.
 
 Again, there is a detailed explanation of how to build the code in the documentation above.
 
-#Specific hints and instructions for mpi runs
-
+Specific hints and instructions for mpi runs
+--------------------------------------------
 The two machines where we have run MITgcm in multiple processors are Westgrid's Bugaboo and Salish. The optfiles for each machine are under the optfiles repo. They have been adapted from other example optfiles on the MITgcm website.
 
-##Tips and hints for Westgrid's Bugaboo
+Tips and hints for Westgrid's Bugaboo
 
  * optfile: bugaboo_mpi.opt.
 
 
-##Tips and hints for Salish
+Tips and hints for Salish
 
  * optfile: salish_mpi.opt
  * To avoid broken pipe errors, execute mitgcmuv on the background (use & at the end of the mpi run command) and exit the session. If you want to monitor the process, start a new session.
