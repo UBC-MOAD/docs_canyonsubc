@@ -23,7 +23,7 @@ Tips and hints for Westgrid's Bugaboo
 Tips and hints for Salish
 
  * optfile: salish_mpi.opt
- * To avoid broken pipe errors, execute mitgcmuv on the background (use & at the end of the mpi run command) and exit the session. If you want to monitor the process, start a new session.
+ * To avoid broken pipe errors, execute mitgcmuv in the background (use & at the end of the mpi run command) and exit the session. If you want to monitor the process, start a new session.
  
  
 
