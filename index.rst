@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Flow_Separation/flow_sep_lit_review.rst
+   Flow_Separation/LitReview/flow_sep_lit_review.rst
    MITgcm_MPI/Run_MIT_MPI.rst
 
 Indices and tables
