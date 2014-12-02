@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    Flow_Separation/LitReview/flow_sep_lit_review.rst
+   Flow_Separation/HalfCylinder/potential_flow.rst
    MITgcm_MPI/Run_MIT_MPI.rst
 
 Indices and tables
