@@ -13,6 +13,7 @@ Contents:
 
    Flow_Separation/flow_sep_lit_review.rst
    MITgcm_MPI/Run_MIT_MPI.rst
+   Tracers/NumDiffModuleDoc.rst
 
 Indices and tables
 ==================
