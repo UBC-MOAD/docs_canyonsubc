@@ -15,6 +15,7 @@ Contents:
    Flow_Separation/HalfCylinder/potential_flow.rst
    MITgcm_MPI/Run_MIT_MPI.rst
    Tracers/NumDiffModuleDoc.rst
+   build_run.rst
 
 Indices and tables
 ==================
