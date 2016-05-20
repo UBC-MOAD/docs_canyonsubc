@@ -2,7 +2,7 @@ Calculate numerical diffusivity
 ============================
 
 This module has functions to calculate the numerical diffusivity experienced by a tracer, associated to a specific configuration of the MITgcm. In particular, it was developed to calculate the equivalent diffusivity $\kappa$, defined (here) as $\kappa = \kappa_{pres}+\kappa_{num}$, where $\kappa_{pres}$ 
-is the prescibed or explicit tracer diffusivity one imposes on the model and $k_{num}$ is the additional diffusivity due to numerical truncation errors. Note that there are two $\kappa_{pres}$ and therefore two $\kappa$, one for the horizontal dimensions and one for the vertical one.
+is the prescibed or explicit tracer diffusivity one imposes on the model and $$k_{num}$$ is the additional diffusivity due to numerical truncation errors. Note that there are two $$\kappa_{pres}$$ and therefore two $\kappa$, one for the horizontal dimensions and one for the vertical one.
 
 These calculations try to reproduce the method used by [1] Abernathy et al. 2010, [2] Hill et al. 2011, and [3] Leibensperger and Plumb, 2013 to determine the numerical diffusivity MITgcm Southern Ocean configurations [1,2] and a baroclinic flow simulation simulation [3].
 
